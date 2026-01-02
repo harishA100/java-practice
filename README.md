@@ -49,9 +49,9 @@ java_practice/
 - Conditional Statements
 - Loops
 - Number Problems
-- Arrays (coming soon)
-- Strings (coming soon)
-- OOP Concepts (coming soon)
+- Arrays 
+- Strings 
+- OOP Concepts 
 
 ---
 
