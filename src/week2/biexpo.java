@@ -8,6 +8,7 @@ class biexpo{
         while(exp>0){
             if(exp%2!=0){
                 ans *=base;
+
             }
             
                 base *=base;

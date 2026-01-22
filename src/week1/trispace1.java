@@ -8,10 +8,10 @@ class trispace1{
             int rowchange = row>n?(n*2)-(row-1):row;
             for(int col =1;col<=n*2;col++){
                 if(col<=n-(rowchange-1)||col>(n+rowchange-1)){
-                    System.out.print(" ");
+                    System.out.print("*");
                 }
                 else{
-                    System.out.print("*");
+                    System.out.print(" ");
                 }
             }
         System.out.println();
