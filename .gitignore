@@ -1,7 +1,0 @@
-# Java compiled files
-*.class
-/out/
-
-# OS / Editor junk
-.vscode/
-.idea/
